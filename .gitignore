@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.dll
+*.so
+*.o
+Obj.RData
+All_inputs.RData
